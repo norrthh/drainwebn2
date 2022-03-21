@@ -81,7 +81,7 @@ header .nav-link {
   color: #727272;
 }
 .job .test {
-  background-image: url("/img/Rectangle 5.png");
+  background-image: url("../img/Rectangle 5.png");
   width: 1110px;
   height: 600px;
   background-repeat: no-repeat;
