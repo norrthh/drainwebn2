@@ -1,0 +1,159 @@
+body {
+  background: #EEEFF1;
+}
+input {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+header .nav-link {
+  color: black;
+}
+.index {
+  padding-top: 140px;
+  padding-bottom: 140px;
+}
+.index p {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.index .btn {
+  width: 225px;
+  height: 65px;
+  padding: 1.2rem;
+  background: #34547A;
+  border-color: #34547A;
+}
+.about-me {
+  background: #E5E5E5;
+  text-align: center;
+  padding-bottom: 100px;
+}
+.about-me .content {
+  padding-top: 120px;
+}
+.about-me .content p {
+  color: #727272;
+}
+.project {
+  background: #34547A;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.project h4,
+.project p {
+  color: #fff;
+}
+.project img {
+  width: 46px;
+  height: 60px;
+}
+.naviki {
+  padding-bottom: 100px;
+  background-color: #E5E5E5;
+}
+.naviki img {
+  margin-top: 100px;
+  width: 555px;
+  height: 450px;
+}
+.naviki .content {
+  padding-top: 200px;
+}
+.naviki .content .progress {
+  background-color: #C4C4C4;
+  height: 4px;
+}
+.naviki .content .progress-bar {
+  background-color: #34547A;
+}
+.naviki .content p {
+  padding-top: 50px;
+  color: #727272;
+}
+.job {
+  padding-top: 100px;
+  background-color: #EEEFF1;
+}
+.job p {
+  padding-top: 50px;
+  color: #727272;
+}
+.job .test {
+  background-image: url("/img/Rectangle 5.png");
+  width: 1110px;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.job .button {
+  width: 1110px;
+  height: 600px;
+  background-image: url(../img/play-button.png);
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.imgged {
+  padding-top: 120px;
+  background: #EEEFF1;
+}
+.imgged .container-fluid {
+  padding: 0;
+}
+.imgged .img {
+  width: 480px;
+  height: 480px;
+}
+.imgged .img1 {
+  background-image: url(../img/Rectangle\ 7.4.png);
+}
+.imgged .img2 {
+  background-image: url(../img/Rectangle\ 7.5.png);
+}
+.imgged .img:hover {
+  background: #597391;
+  background-image: url(../img/view.png);
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.microsoft {
+  background: #E5E5E5;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.microsoft img {
+  margin-left: 10px;
+}
+.site {
+  padding-top: 100px;
+  padding-bottom: 120px;
+  background-color: #EEEFF1;
+}
+.site input {
+  margin-top: 60px;
+  width: 255px;
+  height: 50px;
+  margin-left: 1rem;
+}
+.site textarea {
+  margin: 20px auto;
+  width: 510px;
+  height: 175px;
+}
+.site .btn {
+  display: block;
+  margin: auto;
+  width: 190px;
+  height: 55px;
+  background: #34547A;
+  border-color: #34547A;
+}
+footer {
+  background: #34547A;
+  color: white;
+  padding: 50px 0 50px 0;
+}
